@@ -1,1 +1,1 @@
-# Article_Categorization_v1
+Temporary app for demo

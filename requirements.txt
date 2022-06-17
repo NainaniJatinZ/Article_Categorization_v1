@@ -1,0 +1,5 @@
+streamlit
+pickle
+nltk
+libretranslatepy
+sklearn
